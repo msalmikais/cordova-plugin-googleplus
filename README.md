@@ -1,0 +1,2 @@
+# cordova-plugin-googleplus
+his plugin allows you to authenticate and identify users with Google Sign-In on iOS and Android. Out of the box, you'll get email, display name, given name, family name, profile picture url, and user id. You can also configure it to get an idToken and serverAuthCode.  This plugin only wraps access to the Google Sign-In API. Further API access should be implemented per use-case, per developer.
